@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled binaries
+c/terminal_macos
+c/gui_macos
+c/*.exe
+c/*.obj
+c/*.o
+
+# PyInstaller
+app/build/
+app/dist/
+
+# Output data
+output/*.csv
+
+# OS
+.DS_Store
